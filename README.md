@@ -33,7 +33,7 @@
 *  Microsoft Azure [訂閱帳號](https://azure.microsoft.com/zh-tw/free/)
 * 下載安裝 [Azure CLI 2.0.77](https://docs.microsoft.com/zh-tw/cli/azure/install-azure-cli?view=azure-cli-latest) 之後版本 
 
-## Lab 1 - Lab 8 內容說明
+## Lab 1 - Lab 6 內容說明
 * [前往練習 Lab 1](lab-01.md) : 驗證 Docker 環境正常運作
 * [前往練習 Lab 2](lab-02.md) : 建立一個 Nodejs 網頁程式之 Docker 映像檔與容器
 * [前往練習 Lab 3](lab-03.md) : 建立 Docker Hub repository，並把 image 推送上去
